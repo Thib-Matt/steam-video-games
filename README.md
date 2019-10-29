@@ -3,6 +3,6 @@ The project consisted in scraping Steam platform, to get information about the t
 The goal was to analyse the common features that make these games profitable (tags, price, reviews, publisher, etc..).
 
 3 python files:
-- VG_challenge_scrapping:
+- VG_challenge_scrapping
 - VG_challenge_exploring
 - VG_challenge_vizualisation
